@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+data/raw/household_power_consumption.txt
+data/processed/household_power_cleaned.csv
